@@ -1,0 +1,1 @@
+## this file is maintain documentation for development of Sicomac cipher
